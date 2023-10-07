@@ -1,0 +1,74 @@
+{
+  "Login": {
+    "Heading": "Sign In",
+    "RecoverPassword":"Recover your password",
+    "PhoneNumber_Required":"Phone Number is required.",
+    "PhoneNumber_Length":"Phone Number should be 10 digits numeric number.",
+    "PhoneNumber_MinLength":"Phone Number should be min 8 digits numeric number.",
+    "PhoneNumber_MaxLength":"Phone Number should be max 10 digits numeric number.",
+    "Email_Required":"Email is required.",
+    "Email_Pattern":"Incorrect Email.",
+    "Password_Required":"Password is required."
+  },
+  "Medicine":{
+    "Name_Required":"Name is required.",
+    "Price_Required":"Price is required.",
+    "Quantity_Required":"Quantity is required.",
+    "ExpriryDate_Required":"Expriry Date is required."
+  },
+  "Vendor":{
+    "Year_Required":"Year is required.",
+    "Year_Length":"Year length should be four digit.",
+    "FirstName_Required":"First Name is required.",
+    "LastName_Required":"Last Name is required.",
+    "Zip_Required":"Zip is required.",
+    "State_Required":"State is required.",
+    "City_Required":"City is required.",    
+    "CourseName_Required":"Course Name is required.",  
+    "Address_Required":"Address is required.",
+    "CountryCode_Required":"Country Code is required.",
+    "PhoneNumber_Required":"Phone Number is required.",
+    "PhoneNumber_Length":"Phone Number should be 10 digits numeric number.",
+    "PhoneNumber_MinLength":"Phone Number should be min 8 digits numeric number.",
+    "PhoneNumber_MaxLength":"Phone Number should be max 10 digits numeric number.",
+    "CheckOut_Required":"You must agree before submitting."
+  },
+  "UserRegistration":{
+    "CountryCode_Required":"Country Code is required.",
+    "PhoneNumber_Required":"Phone Number is required.",
+    "PhoneNumber_Length":"Phone Number should be 10 digits numeric number.",
+    "PhoneNumber_MinLength":"Phone Number should be min 8 digits numeric number.",
+    "PhoneNumber_MaxLength":"Phone Number should be max 10 digits numeric number.",
+    "Email_Required":"Email is required.",
+    "Email_Pattern":"Incorrect Email.",
+    "Password_Required":"Password is required."
+  },
+  "Home": {
+    "Dummy": "One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections. The bedding was hardly able to cover it and seemed ready to slide off any moment. His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked. \"What's happened to me?\" he thought. It wasn't a dream.",
+    "Author": "Kafka",
+    "Neeraj": "Unicorn",
+    "Source title": "The Metamorphosis",
+    "Messages": "Messages",
+    "Dates": "Dates",
+    "Numbers": "Numbers",
+    "Decimals": "Decimals",
+    "Pi": "Pi:",
+    "Percentages": "More Percentages",
+    "Currencies": "Currencies",
+    "IntlAPI": "The browser does not support all the features of this app."
+  },
+  "Validation": {
+    "Numbers": "Numbers",
+    "Number is invalid": "Number is invalid. Required format: {{ format }}",
+    "Min value error": "Minimum value: {{ minValue }}",
+    "Max value error": "Maximum value: {{ maxValue }}",
+    "Number is required": "Number is required",
+    "Number value": "Number value: {{ parsedValue }}",
+    "Submit": "Submit",
+    "Dates": "Dates",
+    "Choose a date": "Choose a date",
+    "Date is invalid": "Date is invalid",
+    "Date is required": "Date is required",
+    "Date value": "Date: {{ parsedDate }}"
+  }
+}
