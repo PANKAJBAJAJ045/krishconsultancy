@@ -7,5 +7,6 @@
     "files.autoSave": "afterDelay",
     "editor.mouseWheelZoom": true,
     "editor.defaultFormatter": "esbenp.prettier-vscode",
-    "css.lint.unknownAtRules": "ignore"
+    "scss.lint.unknownAtRules": "ignore",
+    "workbench.colorTheme": "GitHub Light Default"
 }
