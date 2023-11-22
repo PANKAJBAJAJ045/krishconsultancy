@@ -1,10 +1,11 @@
 {
-  "editor.fontSize": 18,
-  "editor.minimap.enabled": false,
-  "editor.fontWeight": "bold",
-  "editor.formatOnSave": true,
-  "editor.formatOnPaste": true,
-  "files.autoSave": "afterDelay",
-  "editor.mouseWheelZoom": true,
-  "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.fontSize": 18,
+    "editor.minimap.enabled": false,
+    "editor.fontWeight": "bold",
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "files.autoSave": "afterDelay",
+    "editor.mouseWheelZoom": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "css.lint.unknownAtRules": "ignore"
 }
