@@ -9,7 +9,7 @@ const root = ReactDOM.createRoot(appRoot)
 export function removeSpinners() {
     const spinner = document.getElementById('spinner')
     if (spinner !== null) {
-        ;(spinner as any).parentElement.removeChild(spinner)
+        spinner.parentElement?.removeChild(spinner);
     }
     // makes appRoot visible
     appRoot.classList.remove('hidden')
