@@ -25,9 +25,9 @@ const Home = () => {
                src="./assets/images/rocketdab.png"
                alt="Rocket Dab"></img>
          </section>
-         <hr className="bg-gray-950 dark:bg-white mx-auto w-1/2" />
+         <hr className="mx-auto w-1/2 bg-gray-950 dark:bg-white" />
       </>
-   )
-}
+   );
+};
 
-export default Home
+export default Home;

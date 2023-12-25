@@ -3,6 +3,5 @@
         "appUrl": "http://localhost:5000/api", 
         "baseUrl": "http://localhost:8080",
         "pageSizeOptions": "10,20,30,40,50"       
-    }
-   
+    }   
 }
